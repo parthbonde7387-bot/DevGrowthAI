@@ -74,7 +74,7 @@ export default function ContactPage() {
                 <div>
                   <p className="text-sm text-zinc-500">Email</p>
                   <p className="mt-1 text-zinc-200">
-                    nexora.digital@gmail.com
+                    DevGrowthAI.digital@gmail.com
                   </p>
                 </div>
               </div>

@@ -54,7 +54,7 @@ export default function ServiceDetail({ service }: Props) {
           </div>
 
           <p className="mt-7 text-sm font-semibold uppercase tracking-[0.25em] text-violet-300">
-            NEXORA Digital Services
+            DevGrowthAI Digital Services
           </p>
 
           <h1 className="mt-5 text-4xl font-bold tracking-tight sm:text-6xl">
@@ -130,7 +130,7 @@ export default function ServiceDetail({ service }: Props) {
         <div className="mx-auto grid max-w-6xl gap-12 md:grid-cols-2 md:items-center">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.2em] text-violet-300">
-              Why Choose NEXORA
+              Why Choose DevGrowthAI
             </p>
 
             <h2 className="mt-4 text-3xl font-bold sm:text-4xl">

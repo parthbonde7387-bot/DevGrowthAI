@@ -4,9 +4,12 @@ import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nexora | Digital Solutions",
+  title: {
+    default: "DevGrowthAI | Build Smart. Grow Faster.",
+    template: "%s | DevGrowthAI",
+  },
   description:
-    "Nexora provides web development, full-stack applications, SEO, digital marketing, database solutions, and video editing.",
+    "DevGrowthAI provides web development, full-stack applications, SEO, digital marketing, database solutions, and video editing.",
 };
 
 export default function RootLayout({

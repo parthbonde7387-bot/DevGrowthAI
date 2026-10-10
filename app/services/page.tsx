@@ -266,7 +266,7 @@ export default function ServicesPage() {
             <div className="grid items-center gap-12 lg:grid-cols-2">
               <div>
                 <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-violet-300">
-                  Why Nexora
+                  Why DevGrowthAI
                 </p>
 
                 <h2 className="text-3xl font-semibold leading-tight tracking-tight sm:text-5xl">
